@@ -1,0 +1,169 @@
+%PDF-1.3
+%¿÷¢þ
+%QDF-1.0
+
+%% Original object ID: 2 0
+1 0 obj
+<<
+  /OpenAction [
+    3 0 R
+    /FitH
+    null
+  ]
+  /PageLayout /OneColumn
+  /Pages 4 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Original object ID: 8 0
+2 0 obj
+<<
+  /CreationDate (D:20260930155211Z)
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 3 0
+3 0 obj
+<<
+  /Contents 5 0 R
+  /Parent 4 0 R
+  /Resources 7 0 R
+  /Type /Page
+>>
+endobj
+
+%% Original object ID: 1 0
+4 0 obj
+<<
+  /Count 1
+  /Kids [
+    3 0 R
+  ]
+  /MediaBox [
+    0
+    0
+    595.28
+    841.89
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 4 0
+5 0 obj
+<<
+  /Length 6 0 R
+>>
+stream
+2 J
+0.57 w
+BT /F1 16.00 Tf ET
+BT 245.63 791.74 Td (Empathy Map) Tj ET
+BT /F2 10.00 Tf ET
+28.35 768.19 127.56 -19.84 re S BT 31.18 755.27 Td (Date) Tj ET
+155.91 768.19 141.73 -19.84 re S BT 158.74 755.27 Td (30 September 2026) Tj ET
+297.64 768.19 127.56 -19.84 re S BT 300.47 755.27 Td (Maximum Marks) Tj ET
+425.20 768.19 141.73 -19.84 re S BT 428.03 755.27 Td (4 Mark\(s\)) Tj ET
+28.35 748.35 127.56 -19.84 re S BT 31.18 735.43 Td (Team ID) Tj ET
+155.91 748.35 141.73 -19.84 re S BT 158.74 735.43 Td (6ab6383cfa5e5219dc390031) Tj ET
+297.64 748.35 127.56 -19.84 re S BT 300.47 735.43 Td (Project Name) Tj ET
+425.20 748.35 141.73 -19.84 re S BT 428.03 735.43 Td (Import Data using Transform Maps \(Spreadsheet\)) Tj ET
+0.1608 0.2549 0.4784 rg
+BT /F1 12.00 Tf ET
+q 28.35 711.50 538.59 -22.68 re f BT 31.18 696.56 Td 1 1 1 rg (  Empathy Map) Tj ET Q
+BT /F2 10.00 Tf ET
+q BT 31.18 670.23 Td 0 g 0.054 Tw (Create an empathy map to understand your customer/user from four perspectives - what they Say, Think, Do, and Feel -) Tj ET Q
+q BT 31.18 656.06 Td 0 g (in relation to the problem your project addresses.) Tj ET Q
+BT /F1 11.00 Tf ET
+BT 31.18 633.08 Td (PERSONA NAME: HR Administrator \(Primary User\)) Tj ET
+BT 31.18 599.06 Td (SAYS) Tj ET
+BT /F2 10.00 Tf ET
+q BT 31.18 576.69 Td 0 g (  - I spend hours manually entering employee data from Excel into ServiceNow every month) Tj ET Q
+q BT 31.18 562.51 Td 0 g (  - Duplicate records keep appearing and I have to clean them up manually) Tj ET Q
+q BT 31.18 548.34 Td 0 g (  - I wish there was a simpler way to load spreadsheet data directly into ServiceNow) Tj ET Q
+BT /F1 11.00 Tf ET
+BT 31.18 522.53 Td (THINKS) Tj ET
+BT /F2 10.00 Tf ET
+q BT 31.18 500.15 Td 0 g (  - There must be a reliable way to bulk-import spreadsheet rows without errors) Tj ET Q
+q BT 31.18 485.98 Td 0 g (  - How can I map columns in my Excel sheet to the right ServiceNow fields?) Tj ET Q
+q BT 31.18 471.80 Td 0 g (  - I need to be confident that duplicate employee records are not created) Tj ET Q
+BT /F1 11.00 Tf ET
+BT 31.18 445.99 Td (DOES) Tj ET
+BT /F2 10.00 Tf ET
+q BT 31.18 423.61 Td 0 g (  - Manually enters employee records from spreadsheets row by row into ServiceNow) Tj ET Q
+q BT 31.18 409.44 Td 0 g (  - Spends extra time identifying and deleting duplicate records after entry) Tj ET Q
+q BT 31.18 395.27 Td 0 g (  - Cross-references Excel columns with ServiceNow table fields) Tj ET Q
+BT /F1 11.00 Tf ET
+BT 31.18 369.46 Td (FEELS) Tj ET
+BT /F2 10.00 Tf ET
+q BT 31.18 347.08 Td 0 g (  - Frustrated by repetitive, error-prone manual data entry) Tj ET Q
+q BT 31.18 332.91 Td 0 g (  - Anxious about data quality and duplicate record creation) Tj ET Q
+q BT 31.18 318.73 Td 0 g (  - Eager for an automated import process using ServiceNow Import Sets and Transform Maps) Tj ET Q
+endstream
+endobj
+
+6 0 obj
+2803
+endobj
+
+%% Original object ID: 7 0
+7 0 obj
+<<
+  /Font <<
+    /F1 8 0 R
+    /F2 9 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+    /ImageB
+    /ImageC
+    /ImageI
+  ]
+>>
+endobj
+
+%% Original object ID: 5 0
+8 0 obj
+<<
+  /BaseFont /Helvetica-Bold
+  /Encoding /WinAnsiEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 6 0
+9 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding /WinAnsiEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+xref
+0 10
+0000000000 65535 f 
+0000000052 00000 n 
+0000000207 00000 n 
+0000000302 00000 n 
+0000000418 00000 n 
+0000000592 00000 n 
+0000003450 00000 n 
+0000003498 00000 n 
+0000003663 00000 n 
+0000003801 00000 n 
+trailer <<
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 10
+  /ID [<eec721e914c96901a255360771a87d84><5e18fb6fef6dcc1a22eb2bf08f1d1f7b>]
+>>
+startxref
+3907
+%%EOF

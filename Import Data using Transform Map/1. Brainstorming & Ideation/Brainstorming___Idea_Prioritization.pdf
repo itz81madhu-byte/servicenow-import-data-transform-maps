@@ -1,0 +1,220 @@
+%PDF-1.3
+%¿÷¢þ
+%QDF-1.0
+
+%% Original object ID: 2 0
+1 0 obj
+<<
+  /OpenAction [
+    3 0 R
+    /FitH
+    null
+  ]
+  /PageLayout /OneColumn
+  /Pages 4 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Original object ID: 8 0
+2 0 obj
+<<
+  /CreationDate (D:20260930155210Z)
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 3 0
+3 0 obj
+<<
+  /Contents 5 0 R
+  /Parent 4 0 R
+  /Resources 7 0 R
+  /Type /Page
+>>
+endobj
+
+%% Original object ID: 1 0
+4 0 obj
+<<
+  /Count 1
+  /Kids [
+    3 0 R
+  ]
+  /MediaBox [
+    0
+    0
+    595.28
+    841.89
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 4 0
+5 0 obj
+<<
+  /Length 6 0 R
+>>
+stream
+2 J
+0.57 w
+BT /F1 16.00 Tf ET
+BT 128.27 791.74 Td (Brainstorming & Idea Prioritization Template) Tj ET
+BT /F2 10.00 Tf ET
+28.35 768.19 127.56 -19.84 re S BT 31.18 755.27 Td (Date) Tj ET
+155.91 768.19 141.73 -19.84 re S BT 158.74 755.27 Td (30 September 2026) Tj ET
+297.64 768.19 127.56 -19.84 re S BT 300.47 755.27 Td (Maximum Marks) Tj ET
+425.20 768.19 141.73 -19.84 re S BT 428.03 755.27 Td (3 Mark\(s\)) Tj ET
+28.35 748.35 127.56 -19.84 re S BT 31.18 735.43 Td (Team ID) Tj ET
+155.91 748.35 141.73 -19.84 re S BT 158.74 735.43 Td (6ab6383cfa5e5219dc390031) Tj ET
+297.64 748.35 127.56 -19.84 re S BT 300.47 735.43 Td (Project Name) Tj ET
+425.20 748.35 141.73 -19.84 re S BT 428.03 735.43 Td (Import Data using Transform Maps \(Spreadsheet\)) Tj ET
+0.1608 0.2549 0.4784 rg
+BT /F1 12.00 Tf ET
+q 28.35 711.50 538.59 -22.68 re f BT 31.18 696.56 Td 1 1 1 rg (  Step 1: Brainstorm and Idea Listing) Tj ET Q
+BT /F2 10.00 Tf ET
+q BT 31.18 670.23 Td 0 g (Each team member lists out as many ideas as possible without judging them at this stage.) Tj ET Q
+BT /F1 8.00 Tf ET
+q 28.35 660.47 34.02 -19.84 re B BT 36.24 648.15 Td 1 1 1 rg (S.No) Tj ET Q
+q 62.36 660.47 99.21 -19.84 re B BT 85.07 648.15 Td 1 1 1 rg (Team Member) Tj ET Q
+q 161.57 660.47 184.25 -19.84 re B BT 220.58 648.15 Td 1 1 1 rg (Idea / Suggestion) Tj ET Q
+q 345.83 660.47 107.72 -19.84 re B BT 382.35 648.15 Td 1 1 1 rg (Category) Tj ET Q
+q 453.54 660.47 56.69 -19.84 re B BT 462.33 648.15 Td 1 1 1 rg (Group No.) Tj ET Q
+1 1 1 rg
+BT /F2 7.50 Tf ET
+q 28.35 640.63 34.02 -17.01 re S BT 31.18 629.88 Td 0 g (1) Tj ET Q
+q 62.36 640.63 99.21 -17.01 re S BT 65.20 629.88 Td 0 g (RAJESWARI.V) Tj ET Q
+q 161.57 640.63 184.25 -17.01 re S BT 164.41 629.88 Td 0 g (Import employee data from Excel using Import Sets) Tj ET Q
+q 345.83 640.63 107.72 -17.01 re S BT 348.66 629.88 Td 0 g (Data Import) Tj ET Q
+q 453.54 640.63 56.69 -17.01 re S BT 456.38 629.88 Td 0 g (1) Tj ET Q
+0.9412 0.949 0.9725 rg
+q 28.35 623.62 34.02 -17.01 re B BT 31.18 612.87 Td 0 g (2) Tj ET Q
+q 62.36 623.62 99.21 -17.01 re B BT 65.20 612.87 Td 0 g (PRABHAVATHI.P) Tj ET Q
+q 161.57 623.62 184.25 -17.01 re B BT 164.41 612.87 Td 0 g (Use Transform Maps with coalesce to avoid duplicates) Tj ET Q
+q 345.83 623.62 107.72 -17.01 re B BT 348.66 612.87 Td 0 g (Data Transform) Tj ET Q
+q 453.54 623.62 56.69 -17.01 re B BT 456.38 612.87 Td 0 g (1) Tj ET Q
+1 1 1 rg
+q 28.35 606.61 34.02 -17.01 re S BT 31.18 595.86 Td 0 g (3) Tj ET Q
+q 62.36 606.61 99.21 -17.01 re S BT 65.20 595.86 Td 0 g (POOVIZHI.A) Tj ET Q
+q 161.57 606.61 184.25 -17.01 re S BT 164.41 595.86 Td 0 g (Create import set tables as staging area for raw data) Tj ET Q
+q 345.83 606.61 107.72 -17.01 re S BT 348.66 595.86 Td 0 g (Data Staging) Tj ET Q
+q 453.54 606.61 56.69 -17.01 re S BT 456.38 595.86 Td 0 g (1) Tj ET Q
+0.9412 0.949 0.9725 rg
+q 28.35 589.61 34.02 -17.01 re B BT 31.18 578.85 Td 0 g (4) Tj ET Q
+q 62.36 589.61 99.21 -17.01 re B BT 65.20 578.85 Td 0 g (VAMIKA.S.H) Tj ET Q
+q 161.57 589.61 184.25 -17.01 re B BT 164.41 578.85 Td 0 g (Build reports and dashboards on imported data) Tj ET Q
+q 345.83 589.61 107.72 -17.01 re B BT 348.66 578.85 Td 0 g (Reporting) Tj ET Q
+q 453.54 589.61 56.69 -17.01 re B BT 456.38 578.85 Td 0 g (2) Tj ET Q
+1 1 1 rg
+q 28.35 572.60 34.02 -17.01 re S BT 31.18 561.84 Td 0 g (5) Tj ET Q
+q 62.36 572.60 99.21 -17.01 re S BT 65.20 561.84 Td 0 g (MADHUMITHA.B) Tj ET Q
+q 161.57 572.60 184.25 -17.01 re S BT 164.41 561.84 Td 0 g (Create custom Employee Test \(u_employee_test\) table) Tj ET Q
+q 345.83 572.60 107.72 -17.01 re S BT 348.66 561.84 Td 0 g (Table Design) Tj ET Q
+q 453.54 572.60 56.69 -17.01 re S BT 456.38 561.84 Td 0 g (1) Tj ET Q
+0.9412 0.949 0.9725 rg
+q 28.35 555.59 34.02 -17.01 re B BT 31.18 544.84 Td 0 g (6) Tj ET Q
+q 62.36 555.59 99.21 -17.01 re B BT 65.20 544.84 Td 0 g (POOVIZHI.A) Tj ET Q
+q 161.57 555.59 184.25 -17.01 re B BT 164.41 544.84 Td 0 g (Configure field mapping in Transform Maps) Tj ET Q
+q 345.83 555.59 107.72 -17.01 re B BT 348.66 544.84 Td 0 g (Field Mapping) Tj ET Q
+q 453.54 555.59 56.69 -17.01 re B BT 456.38 544.84 Td 0 g (1) Tj ET Q
+0.1608 0.2549 0.4784 rg
+BT /F1 12.00 Tf ET
+q 28.35 530.08 538.59 -22.68 re f BT 31.18 515.14 Td 1 1 1 rg (  Step 2: Idea Prioritization) Tj ET Q
+BT /F2 10.00 Tf ET
+q BT 31.18 488.81 Td 0 g (Rate each grouped idea on feasibility and importance, then select the final idea\(s\) to move forward with.) Tj ET Q
+BT /F1 8.00 Tf ET
+q 28.35 479.06 42.52 -19.84 re B BT 37.61 466.73 Td 1 1 1 rg (Group) Tj ET Q
+q 70.87 479.06 198.43 -19.84 re B BT 151.63 466.73 Td 1 1 1 rg (Final Idea) Tj ET Q
+q 269.29 479.06 62.36 -19.84 re B BT 280.91 466.73 Td 1 1 1 rg (Feasibility) Tj ET Q
+q 331.65 479.06 70.87 -19.84 re B BT 345.53 466.73 Td 1 1 1 rg (Importance) Tj ET Q
+q 402.52 479.06 51.02 -19.84 re B BT 414.03 466.73 Td 1 1 1 rg (Priority) Tj ET Q
+q 453.54 479.06 56.69 -19.84 re B BT 465.44 466.73 Td 1 1 1 rg (Selected) Tj ET Q
+1 1 1 rg
+BT /F2 7.50 Tf ET
+q 28.35 459.21 42.52 -17.01 re S BT 31.18 448.46 Td 0 g (1) Tj ET Q
+q 70.87 459.21 198.43 -17.01 re S BT 73.70 448.46 Td 0 g (Import Excel data via Transform Maps into u_employee_test) Tj ET Q
+q 269.29 459.21 62.36 -17.01 re S BT 272.13 448.46 Td 0 g (High) Tj ET Q
+q 331.65 459.21 70.87 -17.01 re S BT 334.49 448.46 Td 0 g (High) Tj ET Q
+q 402.52 459.21 51.02 -17.01 re S BT 405.35 448.46 Td 0 g (1) Tj ET Q
+q 453.54 459.21 56.69 -17.01 re S BT 456.38 448.46 Td 0 g (Yes) Tj ET Q
+0.9412 0.949 0.9725 rg
+q 28.35 442.20 42.52 -17.01 re B BT 31.18 431.45 Td 0 g (2) Tj ET Q
+q 70.87 442.20 198.43 -17.01 re B BT 73.70 431.45 Td 0 g (Reports & Dashboards on imported employee records) Tj ET Q
+q 269.29 442.20 62.36 -17.01 re B BT 272.13 431.45 Td 0 g (High) Tj ET Q
+q 331.65 442.20 70.87 -17.01 re B BT 334.49 431.45 Td 0 g (Medium) Tj ET Q
+q 402.52 442.20 51.02 -17.01 re B BT 405.35 431.45 Td 0 g (2) Tj ET Q
+q 453.54 442.20 56.69 -17.01 re B BT 456.38 431.45 Td 0 g (Yes) Tj ET Q
+1 1 1 rg
+q 28.35 425.20 42.52 -17.01 re S BT 31.18 414.44 Td 0 g (3) Tj ET Q
+q 70.87 425.20 198.43 -17.01 re S BT 73.70 414.44 Td 0 g (Manual record entry directly into ServiceNow forms) Tj ET Q
+q 269.29 425.20 62.36 -17.01 re S BT 272.13 414.44 Td 0 g (Low) Tj ET Q
+q 331.65 425.20 70.87 -17.01 re S BT 334.49 414.44 Td 0 g (Low) Tj ET Q
+q 402.52 425.20 51.02 -17.01 re S BT 405.35 414.44 Td 0 g (3) Tj ET Q
+q 453.54 425.20 56.69 -17.01 re S BT 456.38 414.44 Td 0 g (No) Tj ET Q
+endstream
+endobj
+
+6 0 obj
+6400
+endobj
+
+%% Original object ID: 7 0
+7 0 obj
+<<
+  /Font <<
+    /F1 8 0 R
+    /F2 9 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+    /ImageB
+    /ImageC
+    /ImageI
+  ]
+>>
+endobj
+
+%% Original object ID: 5 0
+8 0 obj
+<<
+  /BaseFont /Helvetica-Bold
+  /Encoding /WinAnsiEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 6 0
+9 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding /WinAnsiEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+xref
+0 10
+0000000000 65535 f 
+0000000052 00000 n 
+0000000207 00000 n 
+0000000302 00000 n 
+0000000418 00000 n 
+0000000592 00000 n 
+0000007047 00000 n 
+0000007095 00000 n 
+0000007260 00000 n 
+0000007398 00000 n 
+trailer <<
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 10
+  /ID [<ae0b693d542aeb6379eee200b21f63a1><2d4792b43895748582607c59524ed26b>]
+>>
+startxref
+7504
+%%EOF
