@@ -223,6 +223,5 @@ The project also provides hands-on experience with ServiceNow table configuratio
 
 ---
 
-**Project Domain:** ServiceNow Administration  
 **Project Title:** Import Data Using Transform Maps (Spreadsheet)  
 **Target Table:** `u_employee_test`
