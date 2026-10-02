@@ -1,12 +1,12 @@
 Import Data using Transform Maps (Spreadsheet)
-Project Overview
+
+PROJECT OVERVIEW:
+
 This project demonstrates the workflow for importing structured employee data from an external spreadsheet into ServiceNow using Import Sets and Transform Maps.
-
 The workflow includes spreadsheet preparation, staging the imported data, configuring field mappings, transforming the data into a custom ServiceNow table, validating the imported records, configuring Coalesce to help avoid duplicate records, and preparing reports and dashboards.
-
+---------------------------------------------------------------------------------------------------------------------------------------
 Source Data
 The spreadsheet contains the following fields:
-
 Employee ID
 Name
 Email
@@ -15,7 +15,7 @@ Location
 ServiceNow Target Table
 Table: Employee Test
 Table Name: u_employee_test
-
+----------------------------------------------------------------------------------------------------------------------------------------
 Field Mapping
 Source Field	Target Field
 Employee ID	Employee ID
@@ -24,7 +24,7 @@ Email	Email
 Department	Department
 Location	Location
 Coalesce Field: Employee ID
-
+--------------------------------------------------------------------------------------------------------------------------------------
 Project Workflow
 Creation of the employee spreadsheet
 Creation of the ServiceNow target table
@@ -35,6 +35,7 @@ Mapping source fields to target fields
 Configuring Coalesce using Employee ID
 Transforming and validating the imported data
 Creating reports and dashboards
+----------------------------------------------------------------------------------------------------------------------------------------
 Repository Structure
 1. Brainstorming & Ideation
 Contains the problem statement, empathy map, and idea prioritization documentation.
@@ -59,12 +60,14 @@ Contains the project executable files documentation and sample project documenta
 
 8. Project Demonstration
 Contains the communication, demonstration planning, proposed feature demonstration, scalability and future planning, and team involvement documentation.
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 Team
 Rajeswari.V - Team Lead
 Prabhavathi.P
 Poovizhi.A
 Vamika.S.H
 Madhumitha.B
+-----------------------------------------------------------------------------------------------------------------------------------------
 Demonstration
 A project demonstration video is provided separately through the SkillWallet Demo Link.
+------------------------------------------------------------------------------------------------------------------------------------------
